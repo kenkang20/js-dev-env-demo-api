@@ -1,0 +1,7 @@
+heroku login
+
+heroku create
+
+heroku git:remote -a calm-reaches-21452
+
+git push heroku master
